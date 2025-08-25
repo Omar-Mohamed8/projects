@@ -1,7 +1,8 @@
+//this is my first project ever created
 #include <iostream>
 #include <vector>
 #include <string>
-#include <algorithm>
+#include <algorithm> // and i was planning to do algorithms stuff that is why i added it but i got lazy
 
 using namespace std;
 
