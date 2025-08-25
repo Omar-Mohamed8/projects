@@ -49,14 +49,14 @@ class StudentManager
     void viewAll()
     {
       
-        for (const&s : students)
+        for (const Student& s : students)
         {
           s.display();
         }
     }
     void search(int id) const
     {
-      for(const& s : students)
+      for(const Student& s : students)
       {
         if(s.Id() == id)
         {
